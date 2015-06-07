@@ -1,0 +1,160 @@
+#global{
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size:16px;
+    overflow: hidden;
+}
+
+#tete{
+    height:140px;
+}
+
+#logo{
+    background: url(../images/banniere_haut.png) no-repeat;
+    text-align: left;
+}
+
+#banniere{
+    background: url(../images/banniere_haut.png) no-repeat;
+    width:100%;
+    height:140px;
+}
+
+#corps{
+}
+
+
+#menu{
+    font-size: large;
+    width:100%;
+    margin-left:400px;
+    text-align: left;
+    margin-top: 30px;
+}
+
+#sousmenu{
+    background-color: #dbdbdb;
+    
+}
+
+#contenu{
+    width:100%;
+    min-height:400px;
+}
+
+#menu ul {
+    list-style: none;
+}
+
+#menu li {
+    margin-right: 10px;
+}
+
+
+#pied {
+    background:#dbdbdb;
+    font-size: small;
+    font-style : italic;
+    text-align: center;
+    margin-bottom:15px;
+}
+
+#barreconnection {
+    margin-left : 900px;
+    height:45px;
+    
+}
+
+#redinscri{
+  font-size  : xx-small;
+}
+
+input[type=submit] {
+ width:100px;
+ box-shadow:1px 1px 1px #D83F3D;
+ background:white;
+ cursor:pointer;
+ color :black;
+ 
+ }
+ 
+ textarea, select {
+ padding:3px;
+ border:1px solid #F5C5C5;
+ border-radius:5px;
+ width:150px;
+ box-shadow:1px 1px 2px #C0C0C0 inset;
+ }
+ 
+  input {
+ padding:3px;
+ border:1px solid #F5C5C5;
+ border-radius:5px;
+ box-shadow:1px 1px 2px #C0C0C0 inset;
+ }
+ 
+ #infocon{
+      border:3px solid #DF3F3F;
+      padding:0 20px 20px 20px;
+      border-radius: 5px;
+      width : 280px;
+      margin-left : 400px;
+      text-align:right;
+ }
+ #infopers{
+     border:3px solid #DF3F3F;
+      padding:0 20px 20px 20px;
+      border-radius: 5px;
+      width : 280px;
+      margin-left : 400px;
+      text-align: right;
+ }
+ 
+ #boutonins {
+     margin-left :420px;
+ }
+ 
+ #stylemenu{
+     border:3px solid #DF3F3F;
+     border-radius: 5px;
+     width : 400px;
+     padding: 5px 5px 5px 5px;
+     text-align:center;
+     background : whitesmoke;
+ }
+ #stylesmenu{
+     border:3px solid #DF3F3F;
+     border-radius: 5px;
+     width : 600px;
+     padding: 5px 5px 5px 5px;
+     text-align:center;
+     background :whitesmoke;
+ }
+ 
+ #infoglog{
+     border:3px solid #DF3F3F;
+      padding:0 20px 20px 20px;
+      border-radius: 5px;
+      width : 400px;
+      margin-left : 400px;
+      text-align: center;
+ }
+ #infosup{
+     border:3px solid #DF3F3F;
+      padding:0 20px 20px 20px;
+      border-radius: 5px;
+      width : 400px;
+      margin-left : 400px;
+      text-align: center;
+ }
+ #abcd{
+     border:3px solid #DF3F3F;
+      padding:0 20px 20px 20px;
+      border-radius: 5px;
+      width : 300px;
+      margin-left : 400px;
+      text-align: center;
+ }
+ p9{
+     margin-left : 470px;
+ }
